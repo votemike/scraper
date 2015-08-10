@@ -1,5 +1,5 @@
 suites:
     main:
-        namespace: App
-        psr4_prefix: App
+        namespace: Scraper
+        psr4_prefix: Scraper
         src_path: app

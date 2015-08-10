@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Scraper\Events;
 
 abstract class Event
 {

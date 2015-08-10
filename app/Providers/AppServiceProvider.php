@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Scraper\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
