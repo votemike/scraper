@@ -144,6 +144,10 @@ return [
         Scraper\Providers\EventServiceProvider::class,
         Scraper\Providers\RouteServiceProvider::class,
 
+        Scraper\GitHub\GitHubServiceProvider::class,
+        Scraper\GooglePlus\GooglePlusServiceProvider::class,
+        Scraper\Twitter\TwitterServiceProvider::class,
+
     ],
 
     /*
